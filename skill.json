@@ -1,0 +1,13 @@
+{
+  "name": "genpark-completely-fair-scheduler-cfs-rbtree-skill",
+  "version": "1.0.0",
+  "description": "Linux Completely Fair Scheduler (CFS) engine calculating weighted virtual runtimes, nice-to-weight scaling, and low-latency task preemption.",
+  "topics": [
+    "genpark-skill",
+    "agentic-ai",
+    "os-kernel",
+    "cfs-scheduler",
+    "virtual-runtime",
+    "linux-scheduling"
+  ]
+}
